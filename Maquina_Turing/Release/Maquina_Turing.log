@@ -1,0 +1,201 @@
+﻿Build started 16/01/2021 07:19:41 p. m..
+     1>Project "C:\Users\cesar\documents\visual studio 2012\Projects\Maquina_Turing\Maquina_Turing\Maquina_Turing.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\Maquina_Turing_Release.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(251): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(262): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(273): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(285): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(296): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(307): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(319): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(330): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(341): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(354): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(366): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(377): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(388): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(400): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(411): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(422): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(450): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(461): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(472): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(484): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(495): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(506): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(604): warning C4172: returning address of local variable or temporary
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(608): warning C4172: returning address of local variable or temporary
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(1245): warning C4172: returning address of local variable or temporary
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(1246): warning C4172: returning address of local variable or temporary
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(1427): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(1828): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(1841): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(1880): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(1977): warning C4172: returning address of local variable or temporary
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(1981): warning C4172: returning address of local variable or temporary
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(2033): warning C4172: returning address of local variable or temporary
+     1>c:\users\cesar\documents\visual studio 2012\projects\maquina_turing\maquina_turing\D2DUI.h(2037): warning C4172: returning address of local variable or temporary
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Maquina_Turing_Release.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt D2DHandle.cpp D2DUI.cpp Maquina_Turing.cpp Parser.cpp Scene.cpp
+         D2DHandle.cpp
+         D2DUI.cpp
+     1>D2DUI.cpp(52): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(213): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(218): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(228): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(244): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(252): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(261): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(277): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(286): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(300): warning C4244: 'initializing' : conversion from 'FLOAT' to 'int', possible loss of data
+     1>D2DUI.cpp(301): warning C4244: 'initializing' : conversion from 'FLOAT' to 'int', possible loss of data
+     1>D2DUI.cpp(306): warning C4244: 'initializing' : conversion from 'FLOAT' to 'int', possible loss of data
+     1>D2DUI.cpp(307): warning C4244: 'initializing' : conversion from 'FLOAT' to 'int', possible loss of data
+     1>D2DUI.cpp(425): warning C4244: 'initializing' : conversion from 'FLOAT' to 'int', possible loss of data
+     1>D2DUI.cpp(426): warning C4244: 'initializing' : conversion from 'FLOAT' to 'int', possible loss of data
+     1>D2DUI.cpp(494): warning C4244: 'initializing' : conversion from 'FLOAT' to 'int', possible loss of data
+     1>D2DUI.cpp(495): warning C4244: 'initializing' : conversion from 'FLOAT' to 'int', possible loss of data
+     1>D2DUI.cpp(592): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(600): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(614): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(621): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(632): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(639): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(654): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(659): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(750): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(755): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(783): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(790): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(803): warning C4244: '=' : conversion from 'LONG' to 'float', possible loss of data
+     1>D2DUI.cpp(806): warning C4244: '=' : conversion from 'LONG' to 'float', possible loss of data
+     1>D2DUI.cpp(840): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(847): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(890): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(895): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(910): warning C4244: '=' : conversion from 'LONG' to 'float', possible loss of data
+     1>D2DUI.cpp(913): warning C4244: '=' : conversion from 'LONG' to 'float', possible loss of data
+     1>D2DUI.cpp(921): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(926): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(956): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(967): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(987): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1150): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1378): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1383): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1393): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1396): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1412): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1427): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1505): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1510): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1602): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1642): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1652): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1688): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1743): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1869): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1874): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1884): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1887): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1902): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1911): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1930): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1939): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(1993): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(2015): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(2011): warning C4101: 'px' : unreferenced local variable
+     1>D2DUI.cpp(2011): warning C4101: 'py' : unreferenced local variable
+     1>D2DUI.cpp(2025): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>D2DUI.cpp(2026): warning C4244: '=' : conversion from 'FLOAT' to 'LONG', possible loss of data
+     1>D2DUI.cpp(2027): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>D2DUI.cpp(2028): warning C4244: '=' : conversion from 'FLOAT' to 'LONG', possible loss of data
+     1>D2DUI.cpp(2122): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(2127): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(2138): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(2140): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(2142): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(2146): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(2153): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(2154): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(2161): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(2162): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(2257): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(2711): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(2805): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(2807): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(2861): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(2897): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(2909): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3052): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(3080): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3092): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3182): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(3186): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(3190): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(3194): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(3199): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(3239): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3252): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3267): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3284): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3299): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3423): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(3464): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3477): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3489): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3502): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3515): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3527): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3540): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3553): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3565): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3578): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3591): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3603): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3641): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3657): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(3658): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(3663): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3668): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(3673): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(3678): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(3684): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(3688): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(3729): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3750): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(3755): warning C4018: '<' : signed/unsigned mismatch
+     1>D2DUI.cpp(3776): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>D2DUI.cpp(3826): warning C4244: 'argument' : conversion from 'float' to 'UINT', possible loss of data
+     1>D2DUI.cpp(4207): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+         Maquina_Turing.cpp
+     1>Maquina_Turing.cpp(82): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>Maquina_Turing.cpp(86): warning C4018: '<' : signed/unsigned mismatch
+     1>Maquina_Turing.cpp(209): warning C4244: 'argument' : conversion from 'LONG' to 'FLOAT', possible loss of data
+     1>Maquina_Turing.cpp(249): warning C4018: '<' : signed/unsigned mismatch
+     1>Maquina_Turing.cpp(256): warning C4018: '<' : signed/unsigned mismatch
+     1>Maquina_Turing.cpp(338): warning C4018: '<' : signed/unsigned mismatch
+         Parser.cpp
+     1>Parser.cpp(8): warning C4018: '<' : signed/unsigned mismatch
+     1>Parser.cpp(43): warning C4018: '<' : signed/unsigned mismatch
+         Scene.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\Maquina_Turing.res" Maquina_Turing.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cesar\documents\visual studio 2012\Projects\Maquina_Turing\\Maquina_Turing\Maquina_Turing_Release.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\cesar\documents\visual studio 2012\Projects\Maquina_Turing\\Maquina_Turing\Maquina_Turing_Release.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\cesar\documents\visual studio 2012\Projects\Maquina_Turing\\Maquina_Turing\Maquina_Turing_Release.lib" /MACHINE:X86 /SAFESEH Release\Maquina_Turing.res
+         Release\D2DHandle.obj
+         Release\D2DUI.obj
+         Release\Maquina_Turing.obj
+         Release\Parser.obj
+         Release\Scene.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         Maquina_Turing.vcxproj -> C:\Users\cesar\documents\visual studio 2012\Projects\Maquina_Turing\\Maquina_Turing\Maquina_Turing_Release.exe
+     1>Done Building Project "C:\Users\cesar\documents\visual studio 2012\Projects\Maquina_Turing\Maquina_Turing\Maquina_Turing.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.58

@@ -1,0 +1,18 @@
+﻿Build started 16/01/2021 07:19:55 p. m..
+     1>Project "C:\Users\cesar\documents\visual studio 2012\Projects\Maquina_Turing\Maquina_Turing\Maquina_Turing.vcxproj" on node 2 (Build target(s)).
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\Maquina_Turing.res" Maquina_Turing.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cesar\documents\visual studio 2012\Projects\Maquina_Turing\\Maquina_Turing\Maquina_Turing_Debug.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\cesar\documents\visual studio 2012\Projects\Maquina_Turing\\Maquina_Turing\Maquina_Turing_Debug.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\cesar\documents\visual studio 2012\Projects\Maquina_Turing\\Maquina_Turing\Maquina_Turing_Debug.lib" /MACHINE:X86 Debug\Maquina_Turing.res
+         Debug\D2DHandle.obj
+         Debug\D2DUI.obj
+         Debug\Maquina_Turing.obj
+         Debug\Parser.obj
+         Debug\Scene.obj
+         Debug\stdafx.obj
+         Maquina_Turing.vcxproj -> C:\Users\cesar\documents\visual studio 2012\Projects\Maquina_Turing\\Maquina_Turing\Maquina_Turing_Debug.exe
+     1>Done Building Project "C:\Users\cesar\documents\visual studio 2012\Projects\Maquina_Turing\Maquina_Turing\Maquina_Turing.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.47
